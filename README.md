@@ -1,0 +1,1 @@
+# Fastify.js Boilerplate
